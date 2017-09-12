@@ -305,6 +305,11 @@
       (net 44 "Net-(C16-Pad1)"))
     (pad 2 smd rect (at 2.575 1 90) (size 1.45 0.7) (layers F.Cu F.Paste F.Mask)
       (net 44 "Net-(C16-Pad1)"))
+    (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_EVQQ2_01W.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.7 0.55 0.7))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 5981384C)
@@ -396,10 +401,10 @@
       (net 44 "Net-(C16-Pad1)"))
     (pad 5 smd rect (at 1.1 -0.95) (size 1.06 0.65) (layers F.Cu F.Paste F.Mask)
       (net 15 +1V8))
-    (model Housings_SOT-23_SOT-143_TSOT-6.3dshapes/SOT-23-5.wrl
+    (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/SOT-23-5.wrl
       (at (xyz 0 0 0))
-      (scale (xyz 0.11 0.11 0.11))
-      (rotate (xyz 0 0 90))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -550,10 +555,10 @@
       (net 13 GND))
     (pad 1 smd rect (at -1.1 -0.95) (size 1.06 0.65) (layers F.Cu F.Paste F.Mask)
       (net 37 +5V))
-    (model Housings_SOT-23_SOT-143_TSOT-6.3dshapes/SOT-23-5.wrl
+    (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/SOT-23-5.wrl
       (at (xyz 0 0 0))
-      (scale (xyz 0.11 0.11 0.11))
-      (rotate (xyz 0 0 90))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -588,10 +593,10 @@
       (net 38 "Net-(U4-Pad4)"))
     (pad 5 smd rect (at 1.1 -0.95) (size 1.06 0.65) (layers F.Cu F.Paste F.Mask)
       (net 15 +1V8))
-    (model Housings_SOT-23_SOT-143_TSOT-6.3dshapes/SOT-23-5.wrl
+    (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/SOT-23-5.wrl
       (at (xyz 0 0 0))
-      (scale (xyz 0.11 0.11 0.11))
-      (rotate (xyz 0 0 90))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -954,9 +959,9 @@
       (net 13 GND))
     (pad 2 smd rect (at 1.1 -0.8 270) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask)
       (net 7 "Net-(C2-Pad1)"))
-    (model Crystals_Oscillators_SMD.3dshapes/crystal_FA238-TSX3225.wrl
+    (model ${KISYS3DMOD}/Crystals.3dshapes/crystal_FA238-TSX3225.wrl
       (at (xyz 0 0 0))
-      (scale (xyz 0.24 0.24 0.24))
+      (scale (xyz 0.2 0.2 0.2))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1385,7 +1390,7 @@
     (effects (font (size 0.75 0.75) (thickness 0.125)) (justify right mirror))
   )
   (dimension 17.78 (width 0.3) (layer Dwgs.User)
-    (gr_text "0.7000 in" (at 90.09 118.11 90) (layer Dwgs.User) (tstamp 59AF992A)
+    (gr_text "0.7000 in" (at 90.09 118.11 90) (layer Dwgs.User) (tstamp 59B73456)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (feature1 (pts (xy 101.6 109.22) (xy 88.74 109.22)))
@@ -1397,7 +1402,7 @@
     (arrow2b (pts (xy 91.44 127) (xy 90.853579 125.873496)))
   )
   (dimension 35.56 (width 0.3) (layer Dwgs.User)
-    (gr_text "1.4000 in" (at 119.38 135.97) (layer Dwgs.User) (tstamp 59AF992B)
+    (gr_text "1.4000 in" (at 119.38 135.97) (layer Dwgs.User) (tstamp 59B73457)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (feature1 (pts (xy 137.16 127) (xy 137.16 137.32)))
