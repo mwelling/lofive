@@ -48,14 +48,12 @@ LIBS:elec-unifil
 LIBS:ESD_Protection
 LIBS:ftdi
 LIBS:gennum
-LIBS:graphic
 LIBS:hc11
 LIBS:intersil
 LIBS:ir
 LIBS:Lattice
 LIBS:leds
 LIBS:LEM
-LIBS:logo
 LIBS:maxim
 LIBS:mechanical
 LIBS:microchip_dspic33dsc
@@ -611,11 +609,11 @@ GPIO_23
 Text GLabel 6850 2200 2    60   BiDi ~ 0
 GPIO_22/PWM1.3
 Text GLabel 6850 2300 2    60   BiDi ~ 0
-GPIO_23/PWM1.2
+GPIO_21/PWM1.2
 Text GLabel 6850 2400 2    60   BiDi ~ 0
-GPIO_23/PWM1.0
+GPIO_20/PWM1.0
 Text GLabel 6850 2500 2    60   BiDi ~ 0
-GPIO_23/PWM1.1
+GPIO_19/PWM1.1
 Text GLabel 6850 2600 2    60   BiDi ~ 0
 GPIO_18
 Text GLabel 6850 2700 2    60   BiDi ~ 0
@@ -887,11 +885,11 @@ GPIO_23
 Text GLabel 10150 4000 0    60   BiDi ~ 0
 GPIO_22/PWM1.3
 Text GLabel 10150 4100 0    60   BiDi ~ 0
-GPIO_23/PWM1.2
+GPIO_21/PWM1.2
 Text GLabel 10150 4200 0    60   BiDi ~ 0
-GPIO_23/PWM1.0
+GPIO_20/PWM1.0
 Text GLabel 10150 4300 0    60   BiDi ~ 0
-GPIO_23/PWM1.1
+GPIO_19/PWM1.1
 Text GLabel 10150 4400 0    60   BiDi ~ 0
 GPIO_18
 Text GLabel 10150 4500 0    60   BiDi ~ 0
