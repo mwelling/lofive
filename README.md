@@ -16,5 +16,5 @@ Copyright 2017 QWERTY Embedded Design, LLC<br>
 Michael Welling <mwelling@ieee.org><br>
 
 LoFive is licensed under CERN Open Hardware Licence v1.2<br>
-[License Information](http://ohwr.org/cernohl)
+[License Information](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2)
 
