@@ -3,7 +3,7 @@
 Copyright 2017 QWERTY Embedded Design, LLC
 
 Licensed under CERN OHL v.2
-http://ohwr.org/cernohl
+https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2
 
 CERN Open Hardware Licence v1.2 
 
