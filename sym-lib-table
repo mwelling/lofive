@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name lofive-rescue)(type Legacy)(uri ${KIPRJMOD}/lofive-rescue.lib)(options "")(descr ""))
+  (lib (name e310-g000)(type Legacy)(uri ${KIPRJMOD}/libs/e310-g000.lib)(options "")(descr ""))
+  (lib (name is25lp128)(type Legacy)(uri ${KIPRJMOD}/libs/is25lp128.lib)(options "")(descr ""))
+  (lib (name spx3819)(type Legacy)(uri ${KIPRJMOD}/libs/spx3819.lib)(options "")(descr ""))
+  (lib (name sn74lvc1g07)(type Legacy)(uri ${KIPRJMOD}/libs/sn74lvc1g07.lib)(options "")(descr ""))
+)
