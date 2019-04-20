@@ -15,7 +15,7 @@
 [LoFive Wiki](https://github.com/mwelling/lofive/wiki)
 
 ## License
-Copyright 2017 QWERTY Embedded Design, LLC<br>
+Copyright 2017-2019 QWERTY Embedded Design, LLC<br>
 Michael Welling <mwelling@ieee.org><br>
 
 LoFive is licensed under CERN Open Hardware Licence v1.2<br>
