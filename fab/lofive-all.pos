@@ -1,5 +1,5 @@
-### Module positions - created on Mon 25 Mar 2019 11:46:16 AM PDT ###
-### Printed by Pcbnew version kicad (5.1.0-43-gfdfe5ea)
+### Module positions - created on Sat 20 Apr 2019 11:49:58 AM PDT ###
+### Printed by Pcbnew version kicad (5.1.0-218-ge90452d)
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val              Package                                      PosX       PosY       Rot  Side
@@ -14,16 +14,19 @@ C8        0.1uF            C_0402_1005Metric                         17.9400    
 C9        0.1uF            C_0402_1005Metric                         28.0138     9.9204    0.0000  top
 C10       0.1uF            C_0402_1005Metric                         25.0190     4.4653  270.0000  top
 C11       0.1uF            C_0402_1005Metric                         16.6751     8.4049  270.0000  top
-C12       0.1uF            C_0402_1005Metric                          8.2541    13.9144    0.0000  top
+C12       0.1uF            C_0402_1005Metric                          6.8081    13.8986  180.0000  top
 C13       10uF             C_0402_1005Metric                          5.2070    11.3030  270.0000  top
 C14       10uF             C_0402_1005Metric                          5.1892     7.0358  270.0000  top
 C15       0.1uF            C_0402_1005Metric                         32.5120    14.0970  180.0000  top
 C16       10nF             C_0402_1005Metric                         34.4297     7.4334  270.0000  top
-C17       10uF             C_0402_1005Metric                          2.3089     4.6812    0.0000  top
+C17       10uF             C_0402_1005Metric                          2.1082     4.5720    0.0000  top
 R1        100              R_0402_1005Metric                         15.2908     8.3820  270.0000  top
 R2        100K             R_0402_1005Metric                         34.4170     9.5250   90.0000  top
 R3        100K             R_0402_1005Metric                         22.0955     4.4475  270.0000  top
-R4        150K             R_0402_1005Metric                          2.3089     3.6678    0.0000  top
+R4        150K             R_0402_1005Metric                          2.1082     3.5585    0.0000  top
+R5        100K             R_0402_1005Metric                          8.8875    13.8989  180.0000  top
+R6        100K             R_0402_1005Metric                          5.7683     4.0386  270.0000  top
+R7        100K             R_0402_1005Metric                         29.2456    12.0650  270.0000  top
 SW1       SW_Push          SW_SPST_EVQP2                             31.7500     6.4770   90.0000  top
 U1        E310-G002        UQFN-48-1EP_6x6mm_P0.4mm_EP4.45x4.45mm    22.7000     9.0653    0.0000  top
 U2        IS25LP128-JBLE   SOIJ-8_5.3x5.3mm_P1.27mm                   9.2710     8.2273   90.0000  top
