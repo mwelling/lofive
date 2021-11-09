@@ -14,8 +14,15 @@
 ## Documentation
 [LoFive Wiki](https://github.com/mwelling/lofive/wiki)
 
+## Required KiCAD Version
+The design requires KiCAD 5.99 to open.
+
+For Debian users check the following issue for installation instructions:
+[Cannot Open PCB Veiw in KiCad Project](https://github.com/mwelling/lofive/issues/10)
+
+
 ## License
-Copyright 2017-2019 QWERTY Embedded Design, LLC<br>
+Copyright 2017-2021 // QWERTY Embedded Design, LLC<br>
 Michael Welling <mwelling@ieee.org><br>
 
 LoFive is licensed under CERN Open Hardware Licence v1.2<br>
