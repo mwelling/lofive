@@ -15,7 +15,7 @@
 [LoFive Wiki](https://github.com/mwelling/lofive/wiki)
 
 ## Required KiCAD Version
-The design requires KiCAD 5.99 to open.
+The design requires at least KiCAD 9 to open.
 
 For Debian users check the following issue for installation instructions:
 [Cannot Open PCB Veiw in KiCad Project](https://github.com/mwelling/lofive/issues/10)
